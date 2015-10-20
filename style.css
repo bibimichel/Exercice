@@ -2,3 +2,7 @@ body {
     margin: auto;
     width: 90%;
 }
+
+body p {
+    color: darkblue;
+}
